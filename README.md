@@ -2,11 +2,11 @@
 
 Implementar:
 
--   <a href="#Speller" class="btn btn-sm btn-default">Speller</a>
--- 1.  Implementa  `load`.
--- 2.  Implementa  `check`.
--- 3.  Implementa  `size`.
--- 4.  Implementa  `unload`.
+- <a href="#Speller" class="btn btn-sm btn-default">Speller</a>
+    - 1.  Implementa  `load`.
+    - 2.  Implementa  `check`.
+    - 3.  Implementa  `size`.
+    - 4.  Implementa  `unload`.
 
 <h2 id="Speller">Speller</h2>
 
