@@ -1,4 +1,4 @@
-# Pset 5 CS50Xni
+# CS50Xni Pset 5: Mispellings 
 
 Implementar:
 
